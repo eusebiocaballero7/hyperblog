@@ -1,0 +1,2 @@
+alias arbolito='git log'
+
